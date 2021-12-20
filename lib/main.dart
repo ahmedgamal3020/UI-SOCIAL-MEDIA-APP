@@ -1,6 +1,3 @@
-import 'package:demo/logInOrSignUPAccount/addPhoto.dart';
-import 'package:demo/screens/chats.dart';
-import 'package:demo/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
